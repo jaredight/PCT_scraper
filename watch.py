@@ -6,7 +6,7 @@ import time
 import sys
 
 # set up slack webhook url
-slack_url = "https://hooks.slack.com/services/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"
+slack_url = "https://hooks.slack.com/services/XXXXXXXXXXX/XXXXXXXXXXX/XXXXXXXXXXXXXXXXXXXX"
 
 def get_cal():
     '''Returns the calendar from the PCTA permit website. '''
